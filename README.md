@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Avinash Patil
 
-<!--
-**avinashpatil48/avinashpatil48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend & Data Systems Engineer**  
+Designing scalable infrastructure, working with open-source databases and distributed systems, and passionate about observability and data platforms.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ Databases  
+PostgreSQL • MySQL • MongoDB • Cassandra • Elasticsearch
+
+### ⚙️ Distributed Systems & Streaming  
+Kafka • Kafka Connect • Zookeeper
+
+### 🧪 Data Engineering  
+Python • PySpark • SQL • Data Pipelines • Batch & Stream Processing
+
+### 🐳 DevOps & Infra  
+Docker • Kubernetes • Ansible • Git • CI/CD • Bash
+
+### 📈 Observability  
+Prometheus • Grafana • Alertmanager
+
