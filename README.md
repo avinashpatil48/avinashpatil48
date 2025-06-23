@@ -1,14 +1,13 @@
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="100%" valign="top">
       <h1 align="left" style="margin-bottom: 5px;"> Avinash Patil | Backend & Data Systems Engineer 🚀</h1>
       <p style="margin: 0;">
         🔹 Skilled in <b>open-source databases, distributed systems, and data infrastructure</b>.<br>
         🔹 Focused on building <b>reliable data pipelines, scalable infra, and observability-first platforms</b>.<br>
         🔹 Passionate about <b>system internals, container-native deployments, and stream processing</b>.
       </p>
-      
-    
+    </td>
   </tr>
 </table>
 
