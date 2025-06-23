@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Avinash Patil
 
 🚀 **Backend & Data Systems Engineer**  
-Designing scalable infrastructure, working with open-source databases and distributed systems, and passionate about observability and data platforms.
+- Designing scalable infrastructure, working with open-source databases and distributed systems, and passionate about observability and data platforms.
 ---
 
 ### 🔧 Tech Stack
