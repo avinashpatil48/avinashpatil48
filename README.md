@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h1>🚀 Avinash Patil — Backend & Data Systems Engineer</h1>
+      <h3>🚀 Avinash Patil - Backend & Data Systems Engineer</h3>
       <p>
         🔹 Skilled in <b>open-source databases, distributed systems, and data infrastructure</b><br>
         🔹 Focused on building <b>reliable data pipelines, scalable infra, and observability-first platforms</b><br>
