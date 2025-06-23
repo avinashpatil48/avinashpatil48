@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h3>🚀 Avinash Patil - Backend & Data Systems Engineer</h3>
+      <h2>🚀 Avinash Patil - Backend & Data Systems Engineer</h2>
       <p>
         🔹 Skilled in <b>open-source databases, distributed systems, and data infrastructure</b><br>
         🔹 Focused on building <b>reliable data pipelines, scalable infra, and observability-first platforms</b><br>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
